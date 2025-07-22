@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/clstacy/clstacy.r-universe.dev
 	branch = HEAD
+[submodule "Paralogs"]
+	path = Paralogs
+	url = https://github.com/clstacy/Paralogs
+[submodule "ordinalMIC"]
+	path = ordinalMIC
+	url = https://github.com/clstacy/ordinalMIC
